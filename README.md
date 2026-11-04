@@ -1,2 +1,2 @@
-# Data-Analyss-Tool-Set-Up
-This is a repository that caontains tools for data analysis
+# Data-Analysis-Tool-Set-Up
+This is a repository that contains tools for data analysis
